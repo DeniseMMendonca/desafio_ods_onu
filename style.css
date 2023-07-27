@@ -1,0 +1,242 @@
+body {
+    background-color: hsl(130, 69%, 91%);
+    padding: 20px;
+    margin: 10px;
+
+}
+h1 {
+    color: green;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    border: 2px solid rgb(7, 245, 7);
+    border-left: 0;
+    border-right: 0;
+    width: 400px;
+    text-align: right;
+}
+ul {
+    margin: 0px;
+    padding: 0px;
+
+}
+li {
+    float: right;
+    list-style: none;
+    margin: 10px;
+    display: inline;
+}
+li a { 
+    position:sticky;
+    padding: 5px 10px;
+    margin: 0px;
+    border: 0px solid #f00;
+    background: green;
+    text-decoration: none;
+    color: #FFF;
+    border-radius: 5px;
+}
+li.a:hover{
+    background: #CCC;
+    color: #000;
+    border-color: #000;
+    background: #000000;
+    transition: 0.5s;
+    opacity: 0.7;
+}
+.menu1:hover {
+    background: greenyellow;
+}
+.menu2:hover {
+    background: greenyellow;
+}
+.menu3:hover {
+    background: greenyellow;
+}
+.menu4:hover {
+    background: greenyellow;
+}
+h3 {
+    color: green;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    border: 2px solid rgb(7, 245, 7);
+    border-right: 0;
+    border-left: 0;
+    width: 400px;
+    text-align: right;
+}
+h4 {
+    text-align: center;
+    text-decoration: underline greenyellow;
+    font-size:x-large;
+    color: green;
+}
+.denise {
+    position: fixed;
+    width: 150px;
+    height: 150px;
+}
+.img-alimentos {
+    width: 1200px;
+    height: 500px;
+}
+.fome-zero {
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+}
+.feliz-html {
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+}
+.agro1 {
+    width: 1200px;
+    height: 400px;
+}
+.agro {
+    width: 400px;
+    height: 200px;
+}
+.divdenise {
+     background-color: white;
+     border: 1px solid green;
+     width: 1200px;
+     height: 150px;
+     line-height: 0px;
+     text-align: center;
+}
+footer {
+    bottom: 0px;
+    background-color: rgb(155, 196, 155);
+    color: black;
+    width: 1200px;
+    height: 200px;
+    text-align: center;
+    text-size-adjust: 5px;
+    line-height: 5px;
+    border: 1px solid green;
+}
+img.tomate {
+    width: 400px;
+    height: 200px;
+}
+.divtomate {
+    text-align: center;
+}
+h5 {
+    color: green;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    border: 2px solid rgb(7, 245, 7);
+    border-left: 0;
+    border-right: 0;
+    width: 400px;
+    text-align: right;
+}
+h6 {
+    text-align: center;
+    text-decoration: underline;
+    font-size:x-large;
+    line-height: 0px;
+}
+.divnina {
+    text-align: center;
+}
+.caixa {
+    position: absolute;
+    width: 940px;
+    margin: 0 auto;
+    right: 200px;
+}
+nav {
+    position: absolute;
+     right: 1px;
+}
+nav ol {
+    display: inline;
+    margin: 0 0 0 15px;
+}  
+ol.a:hover{
+    background: #CCC;
+    color: #000;
+    border-color: #000;
+    background: #000000;
+    transition: 0.5s;
+    opacity: 0.7;
+}
+.lista1:hover {
+    background: greenyellow;
+}
+.lista2:hover {
+    background: greenyellow;
+}
+.lista3:hover {
+    background: greenyellow;
+}
+.lista4:hover {
+    background: greenyellow;
+}
+.lista5:hover {
+    background: greenyellow;
+}
+.lista6:hover {
+    background: greenyellow;
+}
+.lista7:hover {
+    background: greenyellow;
+}
+.lista8:hover {
+    background: greenyellow;
+}
+.lista9:hover {
+    background: greenyellow;
+}
+.lista10:hover {
+    background: greenyellow;
+}
+.lista11:hover {
+    background: greenyellow;
+}
+.lista12:hover {
+    background: greenyellow;
+}
+.lista13:hover {
+    background: greenyellow;
+}
+.lista14:hover {
+    background: greenyellow;
+}
+.lista15:hover {
+    background: greenyellow;
+}
+.lista16:hover {
+    background: greenyellow;
+}
+.lista17:hover {
+    background: greenyellow;
+}
+.divformulario {
+    text-align: center;
+    border: double 3px green;
+    color: green;
+    background-color: rgb(140, 250, 186);
+    padding: 1px;
+    font-size: 15px;
+    line-height: 1px;
+}
+    
+    
+   
+
+
+
