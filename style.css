@@ -1,4 +1,4 @@
-body {
+jibody {
     background-color: hsl(130, 69%, 91%);
     padding: 5px;
     margin: 20px;
@@ -233,6 +233,12 @@ ol.a:hover{
     padding: 1px;
     font-size: 15px;
     line-height: 1px;
+}
+@media screen and (max-width:768px){
+     produto-container{
+     width: 100%
+     flex-direction: culumn;
+}
 }
     
     
