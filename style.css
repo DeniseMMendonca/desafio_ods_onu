@@ -234,11 +234,7 @@ ol.a:hover{
     font-size: 15px;
     line-height: 1px;
 }
-@media screen and (max-width:768px){
-     produto-container{
-     width: 100%;
-     flex-direction: culumn;
-}
+
 
     
     
