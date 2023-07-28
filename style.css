@@ -83,7 +83,7 @@ h4 {
     height: 150px;
 }
 .img-alimentos {
-    width: 950px;
+    width: 900px;
     height: 500px;
 }
 .fome-zero {
@@ -97,7 +97,7 @@ h4 {
     border: 1px solid black;
 }
 .agro1 {
-    width: 950px;
+    width: 9000px;
     height: 400px;
 }
 .agro {
@@ -107,7 +107,7 @@ h4 {
 .divdenise {
      background-color: white;
      border: 1px solid green;
-     width: 1000px;
+     width: 900px;
      height: 150px;
      line-height: 0px;
      text-align: center;
@@ -116,7 +116,7 @@ footer {
     bottom: 0px;
     background-color: rgb(155, 196, 155);
     color: black;
-    width: 950px;
+    width: 900px;
     height: 200px;
     text-align: center;
     text-size-adjust: 5px;
