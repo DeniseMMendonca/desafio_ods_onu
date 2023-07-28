@@ -2,7 +2,6 @@ body {
     background-color: hsl(130, 69%, 91%);
     padding: 0px;
     margin: 0px;
-
 }
 h1 {
     color: green;
@@ -20,7 +19,6 @@ h1 {
 ul {
     margin: 0px;
     padding: 0px;
-
 }
 li {
     float: right;
@@ -103,25 +101,6 @@ h4 {
 .agro {
     width: 400px;
     height: 200px;
-}
-.divdenise {
-     background-color: white;
-     border: 1px solid green;
-     width: 967px;
-     height: 150px;
-     line-height: 0px;
-     text-align: center;
-}
-footer {
-    bottom: 0px;
-    background-color: rgb(155, 196, 155);
-    color: black;
-    width: 967px;
-    height: 200px;
-    text-align: center;
-    text-size-adjust: 5px;
-    line-height: 5px;
-    border: 1px solid green;
 }
 img.tomate {
     width: 400px;
@@ -234,7 +213,23 @@ ol.a:hover{
     font-size: 15px;
     line-height: 1px;
 }
-
+.divdenise {
+     background-color: white;
+     border: 1px solid green;
+     width: 967px;
+     height: 150px;
+     line-height: 0px;
+     text-align: center;
+footer {
+    bottom: 0px;
+    background-color: rgb(155, 196, 155);
+    color: black;
+    width: 967px;
+    height: 200px;
+    text-align: center;
+    text-size-adjust: 5px;
+    line-height: 5px;
+    border: 1px solid green;
 
 
 
