@@ -236,7 +236,7 @@ ol.a:hover{
 }
 @media screen and (max-width:768px){
      produto-container{
-     width: 100%
+     width: 100%;
      flex-direction: culumn;
 }
 }
