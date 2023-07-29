@@ -236,7 +236,13 @@ footer {
     text-size-adjust: 5px;
     line-height: 5px;
     border: 1px solid green;
-}    
+}   
+  @media screen and (max-width: 768px){
+       .produto-container {
+           width: 100%;
+           flex-direction: column;
+       } 
+   } 
 
 
 
