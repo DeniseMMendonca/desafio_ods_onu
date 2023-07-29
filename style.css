@@ -8,7 +8,6 @@ body {
     -moz-background-size: cover;
     background-size: cover;
 }
-}
 h1 {
     color: green;
     font-style: italic;
@@ -85,11 +84,6 @@ h4 {
     position: fixed;
     width: 150px;
     height: 150px;
-}
-.img-alimentos { 
-    texti-align: center;
-    width: 1000px;
-    height: 500px;
 }
 .fome-zero {
     width: 400px;
