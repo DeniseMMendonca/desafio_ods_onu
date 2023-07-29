@@ -1,7 +1,7 @@
 body {
     background: rgb(210, 248, 210);
     padding: 0px;
-    display: block;
+    margin: 8px;
 }
 h1 {
     color: green;
