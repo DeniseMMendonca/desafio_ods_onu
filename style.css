@@ -2,11 +2,6 @@ body {
     background-color: hsl(130, 69%, 91%);
     padding: 0px;
     display: block;
-    background: url(image.jpg) fixed no-repeat;
-    -webkit-background-size: cover;
-    -o-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
 }
 h1 {
     color: green;
