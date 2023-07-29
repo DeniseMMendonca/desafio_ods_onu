@@ -70,7 +70,7 @@ h3 {
     text-align: right;
 }
 table {
-    width: 100%;
+    width: 98%;
     text-align: center;
     font-weight: bolder;
 }
@@ -92,12 +92,12 @@ h4 {
     width: 100%;
 }
 .fome-zero {
-    width: 400px;
+    width: 350px;
     height: 200px;
     border: 1px solid black;
 }
 .feliz-html {
-    width: 400px;
+    width: 350px;
     height: 200px;
     border: 1px solid black;
    
