@@ -86,14 +86,6 @@ h4 {
     margin-right: auto;
     width: 100%;
 }
- img {
-    vertical-align: middle;
-}
-user agent stylesheet
-img {
-    overflow-clip-margin: content-box;
-    overflow: clip;
-}
 .fome-zero {
     width: 400px;
     height: 200px;
