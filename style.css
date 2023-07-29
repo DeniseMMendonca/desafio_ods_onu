@@ -80,7 +80,8 @@ h4 {
     width: 150px;
     height: 150px;
 }
-.img-alimentos {
+.img-alimentos { 
+    texti-align: center;
     width: 1000px;
     height: 500px;
 }
@@ -93,7 +94,7 @@ h4 {
     width: 400px;
     height: 200px;
     border: 1px solid black;
-    texti-align: center;
+   
 }
 .agro1 {
     width: 1000px;
