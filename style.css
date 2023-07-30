@@ -145,11 +145,11 @@ h6 {
     positin: absolute;
     width: 700px;
     margin: 0 auto;
-    left: 5px;
+    left: 10px;
 }
 nav {
-    position: abisolute;
-   left: 10px;
+    position: absolute;
+    left: 5px;
 }
 nav ol {
     display: inline;
