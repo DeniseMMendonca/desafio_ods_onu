@@ -241,7 +241,7 @@ footer {
     line-height: 5px;
     border: 1px solid green;
 }   
-  @media screen and (max-width: 1024px){
+  @medium screen and (max-width: 1024px){
        .produto-container {
            width: 100%;
            height: 100%;
