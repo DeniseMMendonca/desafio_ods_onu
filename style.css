@@ -142,13 +142,13 @@ h6 {
     text-align: center;
 }
 .caixa {
-    width: 940px;
+    width: 700px;
     margin: 0 auto;
-    right: 1px;
+    left: 0px;
 }
 nav {
-    position: absolute;
-     right: 1px;
+   text-align: center 0px;
+}
 }
 nav ol {
     display: inline;
