@@ -149,7 +149,7 @@ h6 {
 }
 nav {
     position: absolute;
-    left: 5px;
+    left: 0px;
 }
 nav ol {
     display: inline;
