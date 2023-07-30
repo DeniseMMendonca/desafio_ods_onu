@@ -142,14 +142,14 @@ h6 {
     text-align: center;
 }
 .caixa {
-    positin: absolute;
+    position: absolute;
     width: 700px;
     margin: 0 auto;
-    left: 0px;
+    left: 10px;
 }
 nav {
     position: absolute;
-    left: 0px;
+    left: 5px;
 }
 nav ol {
     display: inline;
