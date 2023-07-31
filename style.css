@@ -1,7 +1,7 @@
 body {
     background: rgb(210, 248, 210);
     padding: 0px;
-    margin: 8px;
+    display: block;
    
     min-widht: 320px;
     max-widht: 800px;
