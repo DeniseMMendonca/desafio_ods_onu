@@ -73,7 +73,7 @@ h3 {
     text-align: right;
 }
 table {
-    width: 100px;
+    width: 98px;
     text-align: center;
     font-weight: bolder;
     margin: auto;
@@ -102,7 +102,7 @@ h4 {
     border: 1px solid black;
 }
 .feliz-html {
-    width: ,350;
+    width: 350;
     height: 200px;
     border: 1px solid black;
 }
@@ -153,7 +153,7 @@ h6 {
 }
 nav {
     position: absolute;
-    left: 0px;
+    left: 5px;
 }
 nav ol {
     display: inline;
