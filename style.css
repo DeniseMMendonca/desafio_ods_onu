@@ -2,6 +2,9 @@ body {
     background: rgb(210, 248, 210);
     padding: 0px;
     margin: 8px;
+   
+    min-widht: 320px;
+    max-widht: 800px;
 }
 h1 {
     color: green;
@@ -242,12 +245,7 @@ footer {
     line-height: 5px;
     border: 1px solid green;
 }   
-  @media screen and (max-width: 1024px){
-       .produto-container {
-           width: 100%;
-           directin: column;
-       } 
-   } 
+
 
 
 
