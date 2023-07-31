@@ -5,7 +5,6 @@ body {
    
     min-widht: 320px;
     max-widht: 800px;
-    margin: auto;
 }
 h1 {
     color: green;
@@ -101,15 +100,11 @@ h4 {
     width: 350;
     height: 200px;
     border: 1px solid black;
-    margin: auto;
 }
 .feliz-html {
     width: ,350;
     height: 200px;
     border: 1px solid black;
-    margin: auto;
-
-   
 }
 .agro1 {
    display: block;
