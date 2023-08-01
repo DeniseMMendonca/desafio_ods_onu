@@ -6,6 +6,8 @@ body {
 
     min-width: 320px;
     max-width: 1112px;
+
+    margin: auto;
 }
 h1 {
     color: green;
