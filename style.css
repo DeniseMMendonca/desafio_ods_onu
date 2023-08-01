@@ -2,6 +2,9 @@ body {
     background: rgb(210, 248, 210);
     padding: 0px;
     margin: 8px;
+    display: block;
+    color: black;
+    
    
     min-widht: 320px;
     max-widht: 800px;
@@ -73,7 +76,7 @@ h3 {
     text-align: right;
 }
 table {
-    width: 98px;
+    width: 98%;
     text-align: center;
     font-weight: bolder;
 }
