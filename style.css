@@ -223,7 +223,8 @@ ol.a:hover{
     line-height: 1px;
 }
 .divdenise {
-    background-color: white;
+     background-color: white;
+     background-size: cover;
      border: 1px solid green;
      width: 100%;
      height: 150px;
@@ -231,7 +232,7 @@ ol.a:hover{
      text-align: center;
 }
 footer {
-      bottom: 0px;
+    bottom: 0px;
     background-color: rgb(155, 196, 155);
     color: black;
     width: 100%;
