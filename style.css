@@ -151,10 +151,10 @@ inframe {
     height: auto;
 }
 .caixa {
-    position: absolute;
     width: 700px;
     margin: 0 auto;
     left: 10px;
+    line: center;
 }
 nav {
     left: 0px;
