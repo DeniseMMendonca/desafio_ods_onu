@@ -146,6 +146,10 @@ h6 {
 .divnina {
     text-align: center;
 }
+inframe {
+    width: 100%;
+    height: auto;
+}
 .caixa {
     position: absolute;
     width: 700px;
