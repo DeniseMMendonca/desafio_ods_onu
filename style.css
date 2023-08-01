@@ -3,6 +3,11 @@ body {
     padding: 0px;
    display: block;
     color: black;
+
+    min-width: 320px;
+    max-width: 800px;
+    
+    margin: auto;
 }
 h1 {
     color: green;
