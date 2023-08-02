@@ -19,8 +19,8 @@ h1 {
     border: 2px solid rgb(7, 245, 7);
     border-left: 0;
     border-right: 0;
-    width: 400px;
-    text-align: right;
+    width: 100%;
+    text-align: center;
 }
 ul {
     margin: 0px;
@@ -72,13 +72,16 @@ h3 {
     border: 2px solid rgb(7, 245, 7);
     border-right: 0;
     border-left: 0;
-    width: 400px;
-    text-align: right;
-}
-table {
     width: 100%;
     text-align: center;
+}
+table 
+.pesquisa {
+    width: 100%;
+    height:200px;
+    text-align: center;
     font-weight: bolder;
+    color: green;
 }
 h4 {
     text-align: center;
@@ -134,8 +137,8 @@ h5 {
     border: 2px solid rgb(7, 245, 7);
     border-left: 0;
     border-right: 0;
-    width: 400px;
-    text-align: right;
+    width: 100p%;
+    text-align: center;
 }
 h6 {
     text-align: center;
@@ -146,9 +149,18 @@ h6 {
 .divnina {
     text-align: center;
 }
-iframe {
+table {
+    margin: 0px;
     width: 100%;
+    height: 100%;
+    text-align: center;
     height: auto;
+}
+iframe {
+    border: 5px solid green;
+    border-radius: 50px;
+    width: 100%;
+    height: 210px; 
 }
 .caixa {
     width: 100%;
