@@ -101,12 +101,12 @@ h4 {
     width: 100%;
 }
 .fome-zero {
-    width: 350px;
+    width: 215px;
     height: 200px;
     border: 1px solid black;
 }
 .feliz-html {
-    width: 350px;
+    width: 215px;
     height: 200px;
     border: 1px solid black;
 }
@@ -117,7 +117,7 @@ h4 {
     width: 100%
 }
 .agro {
-    width: 400px;
+    width: 350px;
     height: 200px;
 }
 img.tomate {
@@ -137,7 +137,7 @@ h5 {
     border: 2px solid rgb(7, 245, 7);
     border-left: 0;
     border-right: 0;
-    width: 100p%;
+    width: 100%;
     text-align: center;
 }
 h6 {
@@ -166,7 +166,7 @@ iframe {
     width: 100%;
     margin: 0 auto;
     left: 10px;
-    line: center;
+    text-align: center;
 }
 nav {
     left: 0px;
