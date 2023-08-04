@@ -101,13 +101,13 @@ h4 {
     width: 100%;
 }
 .fome-zero {
-    width: 200px;
-    height: 200px;
+    width: 200%;
+    height: 200%;
     border: 1px solid black;
 }
 .feliz-html {
-    width: 200px;
-    height: 200px;
+    width: 200%;
+    height: 200%;
     border: 1px solid black;
 }
 .agro1 {
@@ -117,12 +117,12 @@ h4 {
     width: 100%
 }
 .agro {
-    width: 350px;
-    height: 200px;
+    width: 350%;
+    height: 200%;
 }
 img.tomate {
-    width: 400px;
-    height: 200px;
+    width: 400%;
+    height: 200%;
 }
 .divtomate {
     text-align: center;
