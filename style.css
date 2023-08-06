@@ -254,7 +254,7 @@ footer {
     line-height: 5px;
     border: 1px solid green;
 }   
-@media screen and (max-width: 998px){
+@media screen and (max-width: 998px min-width: 320px){
     .container {
         display: block;
     }
