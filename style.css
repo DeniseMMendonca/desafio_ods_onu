@@ -225,13 +225,14 @@ ol.a:hover{
     background: greenyellow;
 }
 .divformulario {
-    width: 100%
-    border: double 3px green;
+    width: 100%;
+    border: 3px double green;
     color: green;
     background-color: rgb(140, 250, 186);
     padding: 1px;
     font-size: 15px;
     line-height: 1px;
+    text-align: center;
 }
 .divdenise {
      background-color: white;
